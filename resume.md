@@ -13,9 +13,11 @@
 ### Technical
 
 1. Javascript
-1. ExpessJS / AngularJS / NodeJS
+1. AngularJS
+1. ExpessJS / Loopback / NodeJS
 1. C# / .Net
 1. XAML / WPF
+1. Python
 1. C++
 1. Git
 1. MySQL
@@ -33,8 +35,22 @@
 
 ------
 
+**Kwickie Pty ltd** *Backend Developer and Video Composition*
+__2016 to present__
+
+**Technical Environment** NodeJS, Loopback, MYSQL, Python, FFMPEG, AWS, Atom
+
+
+  1. Create endpoints and unit tests in Loopback/NodeJS for B-to-B brand management
+  1. Create endpoints and unit tests in Loopback/NodeJS for IOS and Android applications
+  1. Update and maintain video composition and transcoding software in FFMPEG and Python
+  1. Maintain and roll out AWS websites and services
+  1. Resident DJ
+
+------
+
 **Meerkats** *Web Developer and Digital Sweetheart*
-__2014 to present__
+__2014 to 2016__
 
 **Technical Environment** NodeJS, AngularJS, C#, Kentico, ASP.Net, AWS, Atom
 
