@@ -13,8 +13,8 @@
 ### Technical
 
 1. Javascript
-1. ExpessJS / AngularJS / NodeJS
-1. C# / .Net
+1. ExpessJS / AngularJS / NodeJS / Loopback
+1. C# / .Net / Kentico
 1. XAML / WPF
 1. C++
 1. Git
@@ -33,10 +33,21 @@
 
 ------
 
-**Meerkats** *Web Developer and Digital Sweetheart*
-__2014 to present__
+**Kwickie Pty Ltd** *Senior Full Stack Web Developer*
+__2016(April) to 2016(September)__
 
-**Technical Environment** NodeJS, AngularJS, C#, Kentico, ASP.Net, AWS, Atom
+**Technical Environment** NodeJS, Loopback, AngularJS, Python, FFMPEG, AWS, Atom
+  1. Writing Test Driven RESTful API endpoints for Web and Mobile Application development.
+  1. Product owner and primary developer of the Python Video Composition software.
+  1. Writing AngularJS front end modules.
+  1. Maintain and roll out AWS services.
+
+------
+
+**Meerkats** *Full Stack Web Developer and Digital Sweetheart*
+__2014 to 2016__
+
+**Technical Environment** NodeJS, AngularJS, Jade, Sass, C#, Kentico, ASP.Net, AWS, Atom
 
 
   1. Create prototypes and production level software using the MEAN stack
