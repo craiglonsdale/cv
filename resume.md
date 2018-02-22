@@ -1,6 +1,7 @@
 # Craig Lonsdale
-## Developer & Code Slinger
-
+## Developer
+## And
+## Code Slinger
 > [@craiglonsdale](https://twitter.com/craiglonsdale)
 > [npm](https://www.npmjs.com/~craiglonsdale)
 > [Github](https://github.com/craiglonsdale)
@@ -8,14 +9,15 @@
 > 0450 119255
 > Perth, Western Australia
 
+
 ------
 
 ### Technical
 
 1. Javascript
-1. AngularJS
-1. ExpessJS / Loopback / NodeJS
-1. C# / .Net
+1. ExpessJS / AngularJS / NodeJS / Loopback
+1. C# / .Net / Kentico
+1. Amazon Cloud Services
 1. XAML / WPF
 1. Python
 1. C++
@@ -25,13 +27,25 @@
 
 ### IDEs
 
-1. Visual Studio
+1. Visual Studio 2015/2017/Code
 1. Sublime Text
 1. Atom
 
 ------
 
 ### Experience
+
+------
+
+**AutoGuru Pty Ltd** *Senior Full Stack Web Developer*
+__2016(November) to Present__
+
+
+**Technical Environment** C#, ASP.Net, AngularJS, AngularJS 5, AWS, Lambda, VS Code
+  1. Writing Test Driven RESTful API endpoints for Web and Mobile Application development.
+  1. Development of Cloud based services (SMS and Email integrations).
+  1. Writing AngularJS front end modules.
+  1. Writing AngularJS 5 for Client Portal
 
 ------
 
@@ -45,21 +59,19 @@ __2016 to present__
   1. Create endpoints and unit tests in Loopback/NodeJS for IOS and Android applications
   1. Update and maintain video composition and transcoding software in FFMPEG and Python
   1. Maintain and roll out AWS websites and services
-  1. Resident DJ
 
 ------
 
-**Meerkats** *Web Developer and Digital Sweetheart*
+**Meerkats** *Full Stack Web Developer and Digital Sweetheart*
 __2014 to 2016__
 
-**Technical Environment** NodeJS, AngularJS, C#, Kentico, ASP.Net, AWS, Atom
+**Technical Environment** NodeJS, AngularJS, Jade, Sass, C#, Kentico, ASP.Net, AWS, Atom
 
 
   1. Create prototypes and production level software using the MEAN stack
   1. Develop new features and maintain multiple existing Kentico websites
   1. Develop internal tools to streamline the deployment of production and staging applications
   1. Maintain and roll out AWS websites and services
-  1. Resident DJ
 
 ------
 
@@ -101,23 +113,23 @@ __2009 to 2010__
 ------
 
 * **Repo Helper**
-	<a href=https://github.com/craiglonsdale/repohelper>GitHub</a>
-  <a href=https://www.npmjs.com/package/repohelper>npm</a>
+	<a href="https://github.com/craiglonsdale/repohelper">GitHub</a>
+  <a href="https://www.npmjs.com/package/repohelper">npm</a>
 	Module to help github api auth and data gathering from repos
 
 * **Console Squeal**
-  <a href=https://github.com/meerkats/console-squeal>GitHub</a>
-  <a href=https://www.npmjs.com/package/console-squeal>npm</a>
+  <a href="https://github.com/meerkats/console-squeal">GitHub</a>
+  <a href="https://www.npmjs.com/package/console-squeal">npm</a>
 	Winston wrapper for overriding console commands with Sentry and Slack support.
 
 * **Meerkats Weather**
-  <a href=https://github.com/meerkats/meerkats-weather>GitHub</a>
-  <a href=https://www.npmjs.com/package/meerkats-weather>npm</a>
+  <a href="https://github.com/meerkats/meerkats-weather">GitHub</a>
+  <a href="https://www.npmjs.com/package/meerkats-weather">npm</a>
   A small module to query some basic data from the open weather maps API.
 
 * **Winston Slacker**
-  <a href=https://github.com/meerkats/winston-slacker>GitHub</a>
-  <a href=https://www.npmjs.com/package/winston-slacker>npm</a>
+  <a href="https://github.com/meerkats/winston-slacker">GitHub</a>
+  <a href="https://www.npmjs.com/package/winston-slacker">npm</a>
 	Slack integration for Winston.
   This transport can be used like most standard Winston transports to send messages to a Slack channel.
 
