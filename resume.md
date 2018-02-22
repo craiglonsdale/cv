@@ -13,10 +13,11 @@
 ### Technical
 
 1. Javascript
-1. ExpessJS / AngularJS / NodeJS / Loopback
+1. ExpessJS / AngularJS (1 and 5) / NodeJS / Loopback
 1. C# / .Net (4.6 - Core 2) / Kentico
 1. Amazon Cloud Services (Lambda, SNS etc)
 1. XAML / WPF
+1. Python
 1. C++
 1. Git
 1. MySQL
@@ -34,8 +35,27 @@
 
 ------
 
+<<<<<<< HEAD
 **AutoGuru Pty Ltd** *Senior Full Stack Web Developer*
 __2016(November) to Present__
+=======
+**Kwickie Pty ltd** *Backend Developer and Video Composition*
+__2016 to present__
+
+**Technical Environment** NodeJS, Loopback, MYSQL, Python, FFMPEG, AWS, Atom
+
+
+  1. Create endpoints and unit tests in Loopback/NodeJS for B-to-B brand management
+  1. Create endpoints and unit tests in Loopback/NodeJS for IOS and Android applications
+  1. Update and maintain video composition and transcoding software in FFMPEG and Python
+  1. Maintain and roll out AWS websites and services
+  1. Resident DJ
+
+------
+
+**Meerkats** *Web Developer and Digital Sweetheart*
+__2014 to 2016__
+>>>>>>> origin/master
 
 **Technical Environment** C#, ASP.Net, AngularJS, AngularJS 5, AWS, Lambda, Atom
   1. Writing Test Driven RESTful API endpoints for Web and Mobile Application development.
