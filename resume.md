@@ -14,7 +14,8 @@
 
 1. Javascript
 1. ExpessJS / AngularJS / NodeJS / Loopback
-1. C# / .Net / Kentico
+1. C# / .Net (4.6 - Core 2) / Kentico
+1. Amazon Cloud Services (Lambda, SNS etc)
 1. XAML / WPF
 1. C++
 1. Git
@@ -23,13 +24,24 @@
 
 ### IDEs
 
-1. Visual Studio
+1. Visual Studio 2015/2017/Code
 1. Sublime Text
 1. Atom
 
 ------
 
 ### Experience
+
+------
+
+**AutoGuru Pty Ltd** *Senior Full Stack Web Developer*
+__2016(November) to Present__
+
+**Technical Environment** C#, ASP.Net, AngularJS, AngularJS 5, AWS, Lambda, Atom
+  1. Writing Test Driven RESTful API endpoints for Web and Mobile Application development.
+  1. Development of Cloud based services (SMS and Email integrations).
+  1. Writing AngularJS front end modules.
+  1. Writing AngularJS 5 for Client .portal
 
 ------
 
